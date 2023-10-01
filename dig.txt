@@ -1,0 +1,7 @@
+GET /ao/gca/?id=189 HTTP/2
+Host: www.digital.ao
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Connection: keep-alive
+Cookie: _ga_50JXZSR1R1=GS1.1.1696037835.12.1.1696038588.0.0.0; _ga=GA1.1.1556833703.1694567244; PHPSESSID=frvffg8ba033t2n61cuejj8c71
+TE: trailers
